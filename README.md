@@ -1,3 +1,3 @@
 # login
-sebuah aplikasi dengan fitur login
+sebuah aplikasi dengan fitur Log In
 -branch ini hanya untuk latihan saja!
